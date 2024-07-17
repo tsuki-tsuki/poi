@@ -4,6 +4,8 @@
 
 poi is a scalable browser and tool set for _Kantai Collection_(KanColle).
 
+This fork is created as learning tool of migrating existing projects to KMP.
+
 Key features include:
 
 - Proxy: HTTP, Socks5 and PAC (Experimental)
